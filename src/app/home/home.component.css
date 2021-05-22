@@ -1,0 +1,12 @@
+.imp{
+  text-align: center;
+  border: 1pt;
+  background-color: rgba(225, 191, 241, 0.561);
+  border-bottom: 1pt;
+  border-top: 1pt;
+}
+
+.toc{
+  text-align: center;
+  color: rgb(14, 141, 155);
+}
